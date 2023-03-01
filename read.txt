@@ -12,3 +12,6 @@ git的工作流程一般是这样的：
 
 因此，git管理的文件有三种状态：
 已修改（modified）,已暂存（staged）,已提交（committed）
+
+创建全新的仓库，需要用git管理的项目的根目录执行： git init
+
